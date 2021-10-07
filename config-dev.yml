@@ -1,1 +1,2 @@
-this is dev file!
+config:
+  info: "config-dev info message version=1"
